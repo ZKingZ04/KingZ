@@ -1,0 +1,34 @@
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\bin\Debug\net6.0-windows\PeriodicGrade.exe
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\bin\Debug\net6.0-windows\PeriodicGrade.deps.json
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\bin\Debug\net6.0-windows\PeriodicGrade.runtimeconfig.json
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\bin\Debug\net6.0-windows\PeriodicGrade.dll
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\bin\Debug\net6.0-windows\PeriodicGrade.pdb
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.Form1.resources
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.AssemblyInfoInputs.cache
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.AssemblyInfo.cs
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.dll
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\obj\Debug\net6.0-windows\refint\PeriodicGrade.dll
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.pdb
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.genruntimeconfig.cache
+C:\Users\GIGABYTE\source\repos\PeriodicGrade\PeriodicGrade\obj\Debug\net6.0-windows\ref\PeriodicGrade.dll
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\bin\Debug\net6.0-windows\PeriodicGrade.exe
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\bin\Debug\net6.0-windows\PeriodicGrade.deps.json
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\bin\Debug\net6.0-windows\PeriodicGrade.runtimeconfig.json
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\bin\Debug\net6.0-windows\PeriodicGrade.dll
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\bin\Debug\net6.0-windows\PeriodicGrade.pdb
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.Form1.resources
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.csproj.GenerateResource.cache
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.AssemblyInfoInputs.cache
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.AssemblyInfo.cs
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.csproj.CoreCompileInputs.cache
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.dll
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\obj\Debug\net6.0-windows\refint\PeriodicGrade.dll
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.pdb
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.genruntimeconfig.cache
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\obj\Debug\net6.0-windows\ref\PeriodicGrade.dll
+C:\Users\ziona\source\repos\Periodic Grade\PeriodicGrade\obj\Debug\net6.0-windows\PeriodicGrade.Properties.Resources.resources

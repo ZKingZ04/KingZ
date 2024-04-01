@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ziona\\source\\repos\\Periodic Grade\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C366ACE5-8A24-4076-A29F-8D0E9D5750EF}|PeriodicGrade\\PeriodicGrade.csproj|c:\\users\\ziona\\source\\repos\\periodic grade\\periodicgrade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C366ACE5-8A24-4076-A29F-8D0E9D5750EF}|PeriodicGrade\\PeriodicGrade.csproj|solutionrelative:periodicgrade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C366ACE5-8A24-4076-A29F-8D0E9D5750EF}|PeriodicGrade\\PeriodicGrade.csproj|c:\\users\\ziona\\source\\repos\\periodic grade\\periodicgrade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C366ACE5-8A24-4076-A29F-8D0E9D5750EF}|PeriodicGrade\\PeriodicGrade.csproj|solutionrelative:periodicgrade\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C366ACE5-8A24-4076-A29F-8D0E9D5750EF}|PeriodicGrade\\PeriodicGrade.csproj|c:\\users\\ziona\\source\\repos\\periodic grade\\periodicgrade\\scorevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C366ACE5-8A24-4076-A29F-8D0E9D5750EF}|PeriodicGrade\\PeriodicGrade.csproj|solutionrelative:periodicgrade\\scorevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C366ACE5-8A24-4076-A29F-8D0E9D5750EF}|PeriodicGrade\\PeriodicGrade.csproj|c:\\users\\ziona\\source\\repos\\periodic grade\\periodicgrade\\periodicgradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C366ACE5-8A24-4076-A29F-8D0E9D5750EF}|PeriodicGrade\\PeriodicGrade.csproj|solutionrelative:periodicgrade\\periodicgradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ziona\\source\\repos\\Periodic Grade\\PeriodicGrade\\Form1.cs",
+              "RelativeDocumentMoniker": "PeriodicGrade\\Form1.cs",
+              "ToolTip": "C:\\Users\\ziona\\source\\repos\\Periodic Grade\\PeriodicGrade\\Form1.cs [Design]",
+              "RelativeToolTip": "PeriodicGrade\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:22:56.937Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ziona\\source\\repos\\Periodic Grade\\PeriodicGrade\\Form1.cs",
+              "RelativeDocumentMoniker": "PeriodicGrade\\Form1.cs",
+              "ToolTip": "C:\\Users\\ziona\\source\\repos\\Periodic Grade\\PeriodicGrade\\Form1.cs",
+              "RelativeToolTip": "PeriodicGrade\\Form1.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:22:56.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ScoreValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ziona\\source\\repos\\Periodic Grade\\PeriodicGrade\\ScoreValidator.cs",
+              "RelativeDocumentMoniker": "PeriodicGrade\\ScoreValidator.cs",
+              "ToolTip": "C:\\Users\\ziona\\source\\repos\\Periodic Grade\\PeriodicGrade\\ScoreValidator.cs",
+              "RelativeToolTip": "PeriodicGrade\\ScoreValidator.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:22:56.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PeriodicGradeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\ziona\\source\\repos\\Periodic Grade\\PeriodicGrade\\PeriodicGradeCalculator.cs",
+              "RelativeDocumentMoniker": "PeriodicGrade\\PeriodicGradeCalculator.cs",
+              "ToolTip": "C:\\Users\\ziona\\source\\repos\\Periodic Grade\\PeriodicGrade\\PeriodicGradeCalculator.cs",
+              "RelativeToolTip": "PeriodicGrade\\PeriodicGradeCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T10:22:56.927Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
